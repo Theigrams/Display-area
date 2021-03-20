@@ -9,5 +9,6 @@
 
 以下为硕士研究生期间捣鼓的一些东西：
 
-- [My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes)  给著名markdown编辑器typora写了一个好看的主题样式
-- [语雀个人主页](https://www.yuque.com/houhuangjiashu)  记录了2020年9月以来的博客文章
+- [My-Typora-Themes](https://github.com/Theigrams/My-Typora-Themes)  给markdown编辑器typora写了一个好看的主题样式
+- [语雀个人主页](https://www.yuque.com/hhjs)  2020年9月开始在语雀上写博客
+- [爬虫](https://github.com/Theigrams/LXF-Python-Tutorial) 爬取廖雪峰网站的Python教程，并通过LaTeX编译成PDF
